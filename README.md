@@ -1,1 +1,1 @@
-Repository for TeArch Linux.
+Main Repository for TeArch Linux.
