@@ -17,6 +17,7 @@ else
     echo "No GPG key entered!"
 fi
 
+rm -f x86_64/tearch_repo.*
 ./x86_64/update.sh
 
 # Below command will backup everything inside the project folder
